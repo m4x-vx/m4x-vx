@@ -39,9 +39,9 @@ Rolling out unified setup/config wizards, AI-driven features, and a full UI over
 
 <div align="center">
 
-![m4x.vx's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4x.vx&show_icons=true&theme=default&hide_border=true)
+![m4x.vx's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4x-vx&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4x.vx&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4x-vx&layout=compact&hide_border=true)
 
 </div>
 
