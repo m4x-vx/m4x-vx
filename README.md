@@ -51,6 +51,6 @@ Rolling out unified setup/config wizards, AI-driven features, and a full UI over
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/m4x.vx)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/m4x-vx)
 
 </div>
