@@ -11,7 +11,7 @@ Full-stack developer building Discord bots & web dashboards
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![discord.js](https://img.shields.io/badge/-discord.js-333333?style=flat&logo=discord)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 </div>
 
@@ -19,19 +19,19 @@ Full-stack developer building Discord bots & web dashboards
 
 ## About
 
-I build **Lumorin**, a Discord bot with a full React/TypeScript dashboard — covering everything from the bot backend to the frontend UI, API, and deployment.
+I build **Lumorin**, an AIO Discord bot with a full React/TypeScript website and dashboard — covering everything from the bot backend to the frontend UI, API, and deployment.
 
-- 🤖 Discord bots with `discord.js`, using modern Components V2 patterns
-- 🖥️ Dashboards in React + TypeScript + Vite
-- ⚙️ Node.js / Express APIs, MongoDB
-- ☁️ Deploying on Vercel
+- 🤖 Discord bots powered by `discord.js`, built with modern Components V2 patterns
+- 🖥️ Websites & dashboards with React, TypeScript, and Vite
+- ⚙️ REST APIs with Node.js / Express, backed by PostgreSQL
+- ☁️ Shipping and deploying on Vercel
 
 <br/>
 
 ## Currently working on
 
-**Lumorin** — Discord bot & dashboard
-Unified setup/config wizards, AI-driven features, and an ongoing UI overhaul of the web dashboard.
+**Lumorin** — an all-in-one Discord bot with a companion website and dashboard.
+Rolling out unified setup/config wizards, AI-driven features, and a full UI overhaul of the dashboard.
 
 <br/>
 
