@@ -2,7 +2,7 @@
 
 # Hi, I'm Max 👋
 
-Full-stack developer building Discord bots & web dashboards
+Full-stack developer building Discord bots & webs
 
 <br/>
 
